@@ -6,4 +6,5 @@ package com.linwei.domain;
 public class Person {
 
     private String id;
+    private String name;
 }
